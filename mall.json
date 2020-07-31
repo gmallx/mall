@@ -8,8 +8,6 @@
         "downloadUrl": "",
         "versionCode": 0,
         "isMust": 0,
-        "myModules": [
-           
-        ]
+        "myModules": []
     }
 }
