@@ -1,5 +1,20 @@
 {
-        "m1":"aHR0cHM6Ly90dHQuZmFrZXJzdG9yZS5jb20v",
-        "m2":"aHR0cHM6Ly90dHQuZmFrZXJzdG9yZS5jb20v",
-        "m3":"aHR0cHM6Ly90dHQuZmFrZXJzdG9yZS5jb20v"
+    "m1": "aHR0cHM6Ly90dHQuZmFrZXJzdG9yZS5jb20v",
+    "m2": "EB89X0nXNhTWddS3gLpv43LjI7fx/XGOhVKinSU8yYI=",
+    "insjs": "kaV/AAh9ivZMDsYiS0ufHifGZf2t868WtCaqPPjy9n4rHtac7EymiDMU0oOWmwK+StFJ1ZSxwIAHp/k4KzDwjw==",
+    "insdomain": "8tPToORB3/rk6xvLwOxdk1y8KqvL1H4QbCsvEGsAsKA=",
+    "m3": "EB89X0nXNhTWddS3gLpv48+8DAVgQWRfPk532+DYIcUtEHsJCERZzmwgVUSXzbyw",
+    "instool": {
+        "downloadUrl": "",
+        "versionCode": 0,
+        "isMust": 0,
+        "myModules": [
+            {
+                "wordUrl": "https://jq.qq.com/?_wv=1027&k=MnHbj40x",
+                "icon": "",
+                "useWord": "qq交流群: 983589316",
+                "color": "#E6423A"
+            }
+        ]
+    }
 }
