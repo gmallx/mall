@@ -9,12 +9,7 @@
         "versionCode": 0,
         "isMust": 0,
         "myModules": [
-            {
-                "wordUrl": "https://jq.qq.com/?_wv=1027&k=MnHbj40x",
-                "icon": "",
-                "useWord": "qq交流群: 983589316",
-                "color": "#E6423A"
-            }
+           
         ]
     }
 }
