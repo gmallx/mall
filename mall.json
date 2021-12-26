@@ -5,8 +5,8 @@
     "insdomain": "fKcpK96ZliV1Ey70u1hv66lOGVVNMUQhgfBG6UeVNnRGXaoVrotFWNZ5ZZdW2xrg",
     "m3": "EB89X0nXNhTWddS3gLpv48+8DAVgQWRfPk532+DYIcUtEHsJCERZzmwgVUSXzbyw",
     "instool": {
-        "downloadUrl": "",
-        "versionCode": 0,
+        "downloadUrl": "https://raw.githubusercontent.com/gmallx/mall/master/insta.apk",
+        "versionCode": 2,
         "isMust": 0,
         "myModules": []
     }
