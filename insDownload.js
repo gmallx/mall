@@ -47,7 +47,8 @@ window.addEventListener('load', function(){
                         post.sidecarChildren.map(function(item){
                           if (item.displayResources) {
                             imgList.push({
-                              display_url: item.displayResources[item.displayResources.length - 1].src,
+                              // display_url: item.displayResources[item.displayResources.length - 1].src,
+                              display_url: item.displayResources[0].src,
                               is_video: item.isVideo,
                               video_url: item.videoUrl || null
                             })
@@ -62,7 +63,8 @@ window.addEventListener('load', function(){
                       }else {
                         if (post.displayResources) {
                           imgList.push({
-                            display_url: post.displayResources[post.displayResources.length - 1].src,
+                            // display_url: post.displayResources[post.displayResources.length - 1].src,
+                            display_url: post.displayResources[0].src,
                             is_video: post.isVideo,
                             video_url: post.videoUrl || null
                           })
