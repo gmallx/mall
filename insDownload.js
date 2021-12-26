@@ -14,7 +14,7 @@ window.addEventListener('load', function(){
           for (var key in article) {
             if (key.indexOf('__reactInternalInstance') > -1) {
               try {
-                var post = article[key].memoizedProps.children.props.children[1].props.children.props.post
+                var post = article[key].memoizedProps.children[0].props.children[1].props.children.props.post
                 if (post) {
                   var div = document.createElement('div');
                   var color = downloadMap.indexOf(post.code) > -1 ? '#CCC' : '#E6423A'
