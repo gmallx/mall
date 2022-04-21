@@ -12,7 +12,7 @@ window.addEventListener('load', function(){
         var download = article.querySelector('.ins-download')
         if (!download) {
           for (var key in article) {
-            if (key.indexOf('__reactInternalInstance') > -1) {
+            if (key.indexOf('__reactFiber') > -1) {
               try {
                 var post = article[key].memoizedProps.children[0].props.children[1].props.children.props.post
                 if (post) {
